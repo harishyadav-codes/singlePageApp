@@ -1,2 +1,2 @@
 # singlePageApp
-my info
+this is about the desription of the application
